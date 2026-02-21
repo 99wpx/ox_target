@@ -1,8 +1,6 @@
 # ox_target
 
-# ox_target
-
-## 🎨 UI Customization (GGWPx)
+## 🎨 UI Customization
 
 You can easily customize the colors and appearance of the target UI without editing CSS files.
 

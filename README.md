@@ -1,6 +1,6 @@
 # ox_target
 
-[Preview](https://github.com/user-attachments/assets/305bbfbc-6479-4352-9091-4516bba4a12b)
+![ox_target preview](https://github.com/user-attachments/assets/305bbfbc-6479-4352-9091-4516bba4a12b)
 
 ## 🎨 UI Customization
 
